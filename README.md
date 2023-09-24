@@ -11,7 +11,10 @@
 <hr>
 
 <h2>Principais tecnologias que utilizo: </h2>
-<img src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png" width= "65" height="65">
+
+<img src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png" width= "65" height="65"> <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="65" height="65"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" width="65" height="65"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="65" height="65">
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielZe&layout=compact&theme=dracula)
 
 <!--
 **AdrielZe/AdrielZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
