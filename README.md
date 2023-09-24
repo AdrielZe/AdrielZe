@@ -5,6 +5,14 @@
 <h4> 🧠 Para chegar até aqui, passei por diversos processos seletivos e obtive muitos conhecimentos em HTML, CSS , JavaScript (incluindo manipulação de DOM), Git e Github, os quais podem ser comprovados através dos meus projetos presentes aqui no Github. </h4>
 <h4> 😄 Muito obrigado por visitar o meu perfil !!</h4>
 
+<hr>
+<h2>Meu LinkedIn: </h2>
+<a href="www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245"> Clique aqui para acessar. </a>
+<hr>
+
+<h2>Principais tecnologias que utilizo: </h2>
+<img src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png" width= "65" height="65">
+
 <!--
 **AdrielZe/AdrielZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
