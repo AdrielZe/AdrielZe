@@ -7,7 +7,7 @@
 
 <hr>
 <h2>Meu LinkedIn: </h2>
-<a href="www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245"> Clique aqui para acessar. </a>
+<a href="https://www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245"> Clique aqui para acessar. </a>
 <hr>
 
 <h2>Principais tecnologias que utilizo: </h2>
