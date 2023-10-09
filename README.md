@@ -6,8 +6,6 @@ Sou um desenvolvedor de Software BackEnd, faço parte do Programa Geração Cald
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adriel-Java" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png">
-  <img align="center" alt="Adriel-SpringBoot" height="50" width="50" src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw">
-  <img align="center" alt="Adriel-SQL" height="50" width="50" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg">
   <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 </div>
 
