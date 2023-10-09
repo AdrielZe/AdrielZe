@@ -1,6 +1,6 @@
 ## Oláá, Meu nome é Adriel!! 👋
 
-Sou um desenvolvedor de Software BackEnd, faço parte do Programa Geração Caldeira 2023 - Trilha de Programação.
+Sou um desenvolvedor de Software, faço parte do Programa Geração Caldeira 2023 - Trilha de Programação.
 
 🖱️ Veja os meus projetos logo abaixo. Agradeço pela sua visita !!
 
