@@ -1,14 +1,23 @@
-## Oláá, Meu nome é Adriel!! 👋
-
-Sou um desenvolvedor de Software, faço parte do Programa Geração Caldeira 2023 - Trilha de Programação.
-
-🖱️ Veja os meus projetos logo abaixo. Agradeço pela sua visita !!
+<h1> Hello!!! 👋 </h1> 
 
 
-## Hello, I'm Adriel!! 👋
-I'm a Software Developer, and I'm part of the "Programa Geração Caldeira 2023" - Programming Track.
+<div>
+ <a href = "mailto:oadriel14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-🖱️ Check out my projects below. Thank you for visiting!
+## My name is Adriel Oliveira
+
+(Java | Spring Boot | JavaScript | Python | C++ | HTML | CSS | SQL ) 💻
+
+- Participant of  "TIC em Trilhas 2024" from Apple Developer Academy 🍎 [TIC em Trilhas](https://tecnopuc.pucrs.br/mais-de-1400-novos-talentos-formados-em-2022-e-2023-tecnopuc-como-vetor-de-insercao-profissional-e-transformacao-social/)
+- Geração Caldeira 2023 - Programming Track 🚀 [Instituto Caldeira](https://institutocaldeira.org.br/](https://institutocaldeira.org.br/blog/geracao-caldeira-2023-formatura-gradua-200-jovens-para-o-mercado-de-tecnologia/))
+- Instructor of ''Jovem Tech 2023'' ( Python ) [Ânima educação](https://jovemtechuniritter.animahub.com.br/)
+- Computer Science Student 📚 @[Uniritter](https://www.uniritter.edu.br/)
+- I'm focused and i love coding 💡
+
+
+🖱️ Check out my projects below. I'm sure you are going to like it! 😄
 
 
 ##
@@ -22,10 +31,8 @@ I'm a Software Developer, and I'm part of the "Programa Geração Caldeira 2023"
 
     
 </div><br>
-  <a href = "mailto:oadriel14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+ 
 
 
 
