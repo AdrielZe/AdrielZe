@@ -6,6 +6,9 @@
  <a href="https://www.linkedin.com/in/adriel-silveira-de-oliveira-072ba1245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<img align="right" alt="Code Girl image" src="./coding.jpg"  width="300px"/>
+
+
 ## My name is Adriel Oliveira
 
 (Java | Spring Boot | JavaScript | Python | C++ | HTML | CSS | SQL ) 💻
