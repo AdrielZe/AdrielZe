@@ -28,10 +28,15 @@
   <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://spring.io/img/logos/spring-initializr.svg">
   <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png">
+  <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://brandlogos.net/wp-content/uploads/2020/12/python-logo.png">
+   <img align="center" alt="Adriel-JavaScript" height="50" width="50" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png">
+  
 
     
 </div><br>
 </div>
+
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielZe&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
