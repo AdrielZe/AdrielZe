@@ -20,8 +20,6 @@
 🖱️ Check out my projects below. I'm sure you are going to like it! 😄
 
 
-##
-
 <div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Adriel-Java" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png">
