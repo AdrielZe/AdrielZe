@@ -13,7 +13,7 @@
 
 (Java | Spring Boot | JavaScript | Python | C++ | HTML | CSS | SQL ) 💻
 
-- Participant of  "TIC em Trilhas 2024" from Apple Developer Academy 🍎 [TIC em Trilhas](https://tecnopuc.pucrs.br/mais-de-1400-novos-talentos-formados-em-2022-e-2023-tecnopuc-como-vetor-de-insercao-profissional-e-transformacao-social/)
+- Developer 💻 [iProcess](https://iprocess.com.br/)
 - Geração Caldeira 2023 - Programming Track 🚀 [Instituto Caldeira](https://institutocaldeira.org.br/blog/geracao-caldeira-2023-formatura-gradua-200-jovens-para-o-mercado-de-tecnologia/)
 - Instructor of ''Jovem Tech 2023'' ( Python ) [Ânima educação](https://jovemtechuniritter.animahub.com.br/)
 - Computer Science Student 📚 @[Uniritter](https://www.uniritter.edu.br/)
