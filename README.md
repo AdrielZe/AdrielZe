@@ -11,9 +11,9 @@
 
 ## My name is Adriel Oliveira
 
-(Java | Spring Boot | JavaScript | Python | C++ | HTML | CSS | SQL ) 💻
+(Java | Spring Boot | C | C++ | ShellScript | Python | HTML | CSS | SQL ) 💻
 
-- Developer 💻 [iProcess](https://iprocess.com.br/)
+- 42 Cadet 💻 [42 São Paulo](https://www.42sp.org.br/)
 - Geração Caldeira 2023 - Programming Track 🚀 [Instituto Caldeira](https://institutocaldeira.org.br/blog/geracao-caldeira-2023-formatura-gradua-200-jovens-para-o-mercado-de-tecnologia/)
 - Instructor of ''Jovem Tech 2023'' ( Python ) [Ânima educação](https://jovemtechuniritter.animahub.com.br/)
 - Computer Science Student 📚 @[Uniritter](https://www.uniritter.edu.br/)
